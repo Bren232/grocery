@@ -9,6 +9,9 @@
 [Get Receipt](Get-Receipt.html)
 [Bag Groceries](Bag-Groceries.html)
 [Complain](Complain.html)
+[Register](Register.html)
+[Log In](Log-in.html)
+[Log Out](Log-out.html)
 
 
 You can use the [editor on GitHub](https://github.com/Bren232/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
