@@ -1,6 +1,15 @@
 ## Welcome to GitHub Pages
 
 [Shop For Groceries](Shop-For-Groceries.html)
+[Checkout Groceries](Checkout-Groceries.html)
+[Verify Age](Verify-Age.html)
+[Pay for Groceries](Pay-For-Groceries.html)
+[Redeem Coupons](Redeem-Coupons.html)
+[Get Cash Back](Get-Cash-Back.html)
+[Get Receipt](Get-Receipt.html)
+[Bag Groceries](Bag-Groceries.html)
+[Complain](Complain.html)
+
 
 You can use the [editor on GitHub](https://github.com/Bren232/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
